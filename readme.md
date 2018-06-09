@@ -67,8 +67,8 @@ Fizz Buzz
 16 - Lizard  
 
 
-DOUBLE BONUS:
-For all numbers higher than 20, look at the last digit of the number. 
+DOUBLE BONUS:  
+For all numbers higher than 20, look at the last digit of the number.   
 
-If the digit has an odd number of letters print "Harry" 
+If the digit has an odd number of letters print "Harry"   
 If the digit has an even number of letters print "Potter"
